@@ -1,33 +1,26 @@
 # TrophyEater
 
-Allows trophies to be made consumable to obtain skill points and activate boss powers by consuming them.
+Allows trophies to be consumed to gain skill points and activate boss powers.
 
 <p align="left"><img src="https://imgur.com/OcCueXU.png" alt="SkillNotifier" width="510"></p>
 
-Got more trophies than you know what to do with? Chests are overflowing, heads are stacking up, and you wish all that loot could provide something more useful than decoration.
+Got more trophies than you know what to do with? Chests are overflowing, heads are stacking up, and you wish all that loot could provide something more useful than decoration. Well, stop collecting dust and start collecting power.
 
-## Features
+# Features
 
-* **Each trophy** consumed will increase a random skill depending on the trophy's rarity.
-* **Choose the skill** for each trophy or leave the default random selection.
-* **Boss Trophies and summoning items** grant the boss's power and skill points.
-* **Completely disable** skill points or power boss consumption by setting the parameters to `0` and restart game.
+* **Skill Progression** : Consumed trophies increase a random skill based on their rarity.
+* **Custom Skills** : Keep skill selection random or assign a specific skill to each trophy.
+* **Boss Rewards** : Boss Trophies and summoning items grant the corresponding boss power and skill points.
+* **Fully Configurable** : Disable skill points or boss powers by setting their values to `0` and restarting the game.
 
-### Trophy Monster
-
+### Creature Trophies
 ![TrophyMonster](https://imgur.com/splVd9h.png)
-
-### Bosses Summoning 
-
+### Boss Summoning Items
 ![BossesSummoning](https://imgur.com/td59vTo.png)
-
-
-### Trophy Bosses
-
+### Boss Trophies
 ![TrophyBosses](https://imgur.com/ahfusms.png)
 
-This mod is inspired by UsefulTrophies. I completely rewrote the code and fixed the issues related to the buff boss.
-
+This mods was created to complement [SellTrophies](https://thunderstore.io/c/valheim/p/Harchytek/SellTrophies/), inspired by UsefulTrophies for players looking for the same experience.
 
 ## Installation
 1. Install [BepInExPack Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/).
@@ -46,3 +39,5 @@ modify settings in-game.
 If you have any suggestions or need help, you can contact me on Github.
 
 I make these mods for my friends and me, but they can be useful to everyone. It's my way of contributing to the Valheim community.
+
+<p align="left"><a href="https://github.com/Harchytek/TrophyEater/issues" target="_blank"><img src="https://cdn.simpleicons.org/github/C5C2FF" alt="Github" width="31" align="absmiddle"></a>&nbsp;<strong><a href="https://github.com/Harchytek?tab=repositories" target="_blank"> Harchytek</a></strong></p>
