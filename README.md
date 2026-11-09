@@ -2,7 +2,7 @@
 
 Allows trophies to be consumed to gain skill points and activate boss powers.
 
-<p align="left"><img src="https://imgur.com/OcCueXU.png" alt="SkillNotifier" width="510"></p>
+<p align="left"><img src="https://imgur.com/OcCueXU.png" alt="TrophyEater" width="510"></p>
 
 Got more trophies than you know what to do with? Chests are overflowing, heads are stacking up, and you wish all that loot could provide something more useful than decoration. Well, stop collecting dust and start collecting power.
 
@@ -12,6 +12,7 @@ Got more trophies than you know what to do with? Chests are overflowing, heads a
 * **Custom Skills** : Keep skill selection random or assign a specific skill to each trophy.
 * **Boss Rewards** : Boss Trophies and summoning items grant the corresponding boss power and skill points.
 * **Fully Configurable** : Disable skill points or boss powers by setting their values to `0` and restarting the game.
+* **Shortcut Toggle** : Use a configurable hotkey (default: `END`) to switch between hotkey trophy consumption and standard boss summoning..
 
 ### Creature Trophies
 ![TrophyMonster](https://imgur.com/splVd9h.png)
